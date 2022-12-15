@@ -7,13 +7,21 @@ Sentiment Analysis is one of the basic tasks in the field of natural language pr
 
 # Introduction
 To succeed in the task, the following steps are recommended:
-● Data analysis
+- Data analysis
+
 First, use the tools to achieve the analysis and understanding of the presented dataset
-● Data processing 
-● Data mining
-● Feature Extraction
+
+- Data processing 
+
+- Data mining
+
+- Feature Extraction
+
 For one task, you must use n-gram and TF-IDF methods for extracting and engineering or engineering and engineering.
-● Modeling
+
+- Modeling
+
 Using classic models taught during the course, such as SVM, Logistic Regression, Decision Tree, ... develop models for Entask. Each student should develop at least three different models for one purpose. If needed, the tools available in the Scikit-Learn library should be used to adjust the models of the desired models and mentioned in the report. It is also necessary for students to pay attention to the issue of preventing overfitting or underfitting of models and include their solutions to solve a problem by mentioning the solution in the report. In the event of a data subject
 unbalancing, the solution used to deal with it should also be stated.
-● Analysis of results
+
+- Analysis of results
