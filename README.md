@@ -2,7 +2,6 @@
 
 > Summer 2022
 
-# Introduction
 Sentiment Analysis is one of the basic tasks in the field of natural language processing, which aims to examine the emotional state of the text. In other words, Entask aims to automatically detect whether the comment text contains positive or negative emotions (or some neutral) by extracting meaningful information from the text.
 
 # Introduction
